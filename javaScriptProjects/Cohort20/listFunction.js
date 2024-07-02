@@ -42,3 +42,4 @@ function sum(amount){
     }
     console.log(sum(categories))
 
+module.exports = {testScores,addScore,square,shareBook,arange,sum}
